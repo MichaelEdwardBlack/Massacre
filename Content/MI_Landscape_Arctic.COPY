@@ -1,0 +1,50 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="MI_Landscape_Arctic"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   ParameterStateId=6331ECE543A23EC1CF584A81041E8937
+   Parent=Material'"/Game/AutoLandscape/Materials/M_AutoLandscape.M_AutoLandscape"'
+   bHasStaticPermutationResource=True
+   ScalarParameterValues(0)=(ParameterInfo=(Name="Color Multiplier A"),ParameterValue=1.000000,ExpressionGUID=50DC1BF44EBBBE7BD55E429CA821B00B)
+   ScalarParameterValues(1)=(ParameterInfo=(Name="Rougness Multiplier A"),ParameterValue=4.000000,ExpressionGUID=6CB874C94CCC5FD1F0B687AF30A6940A)
+   ScalarParameterValues(2)=(ParameterInfo=(Name="Normal Intensity A"),ParameterValue=1.000000,ExpressionGUID=57B72D7944DD34A937E651B86AFC2D39)
+   ScalarParameterValues(3)=(ParameterInfo=(Name="Tiling Far A"),ParameterValue=0.010000,ExpressionGUID=1D3823794F8631E8748CFA8E5FEC76E0)
+   ScalarParameterValues(4)=(ParameterInfo=(Name="Tiling Near A"),ParameterValue=0.010000,ExpressionGUID=3E0B7F114D12B312A93FCA9D5143F70B)
+   ScalarParameterValues(5)=(ParameterInfo=(Name="Specular Multiplier A"),ParameterValue=1.000000,ExpressionGUID=DDC81D894BB3251AF470EEAA31BBDC01)
+   ScalarParameterValues(6)=(ParameterInfo=(Name="TriplanarNearSize A"),ParameterValue=0.010000,ExpressionGUID=C1AAD1D440457781DE86EE9DE50A0B6E)
+   ScalarParameterValues(7)=(ParameterInfo=(Name="Color Multiplier B"),ParameterValue=2.000000,ExpressionGUID=50DC1BF44EBBBE7BD55E429CA821B00B)
+   ScalarParameterValues(8)=(ParameterInfo=(Name="Rougness Multiplier B"),ParameterValue=0.800000,ExpressionGUID=6CB874C94CCC5FD1F0B687AF30A6940A)
+   ScalarParameterValues(9)=(ParameterInfo=(Name="Normal Intensity B"),ParameterValue=0.500000,ExpressionGUID=57B72D7944DD34A937E651B86AFC2D39)
+   ScalarParameterValues(10)=(ParameterInfo=(Name="Tiling Far B"),ParameterValue=0.010000,ExpressionGUID=1D3823794F8631E8748CFA8E5FEC76E0)
+   ScalarParameterValues(11)=(ParameterInfo=(Name="Tiling Near B"),ParameterValue=0.100000,ExpressionGUID=3E0B7F114D12B312A93FCA9D5143F70B)
+   ScalarParameterValues(12)=(ParameterInfo=(Name="Specular Multiplier B"),ParameterValue=0.100000,ExpressionGUID=DDC81D894BB3251AF470EEAA31BBDC01)
+   ScalarParameterValues(13)=(ParameterInfo=(Name="Tiling Far C"),ParameterValue=0.500000,ExpressionGUID=1D3823794F8631E8748CFA8E5FEC76E0)
+   ScalarParameterValues(14)=(ParameterInfo=(Name="Tiling Far E"),ParameterValue=0.500000,ExpressionGUID=1D3823794F8631E8748CFA8E5FEC76E0)
+   ScalarParameterValues(15)=(ParameterInfo=(Name="Distance Variation Color Amount"),ParameterValue=0.247619,ExpressionGUID=193852B5455FBC617B94249895C8A36B)
+   ScalarParameterValues(16)=(ParameterInfo=(Name="Distance Variation Terrain Tiling"),ParameterValue=0.006000,ExpressionGUID=783DF87644345A762516AB954E757852)
+   ScalarParameterValues(17)=(ParameterInfo=(Name="First Addition"),ParameterValue=0.650000,ExpressionGUID=063F38194AB9757BB31432BEC0ABD00F)
+   ScalarParameterValues(18)=(ParameterInfo=(Name="Second Texture Tile"),ParameterValue=0.650000,ExpressionGUID=99D990074D3E1F25CD34AD8EB5CC3B60)
+   ScalarParameterValues(19)=(ParameterInfo=(Name="Third Texture Tile"),ParameterValue=0.250000,ExpressionGUID=5332A5D5400D6BF7F5638282C8692F65)
+   ScalarParameterValues(20)=(ParameterInfo=(Name="Bias Extra"),ParameterValue=-8.844911,ExpressionGUID=3277A5FD46944FC0F1ECA9811C704B70)
+   ScalarParameterValues(21)=(ParameterInfo=(Name="Sharpness Extra"),ParameterValue=22.000000,ExpressionGUID=598EF43F42CE67A0E1D01DA4CBFA6863)
+   ScalarParameterValues(22)=(ParameterInfo=(Name="Bias"),ParameterValue=-9.927794,ExpressionGUID=655659064B0F3A18D08D35823416FC97)
+   ScalarParameterValues(23)=(ParameterInfo=(Name="Sharpness"),ParameterValue=30.460550,ExpressionGUID=5EB2CE1146441C8E2337558C0B5748C6)
+   ScalarParameterValues(24)=(ParameterInfo=(Name="RefractionDepthBias"))
+   VectorParameterValues(0)=(ParameterInfo=(Name="Color Tint A"),ParameterValue=(R=0.368239,G=0.500000,B=0.459517,A=1.000000),ExpressionGUID=6582B37D4112922A12D6ADAB85143F45)
+   TextureParameterValues(0)=(ParameterInfo=(Name="Color A"),ParameterValue=Texture2D'"/Game/Megascans/Surfaces/MossyCreekStones/T_MossyCreekStones_A.T_MossyCreekStones_A"',ExpressionGUID=FE5764CF4B285A688650B5B10E9B7672)
+   TextureParameterValues(1)=(ParameterInfo=(Name="Normal A"),ParameterValue=Texture2D'"/Game/Megascans/Surfaces/MossyCreekStones/T_MossyCreekStones_N.T_MossyCreekStones_N"',ExpressionGUID=FE70953D4BA633E48D623A85F5E0A452)
+   TextureParameterValues(2)=(ParameterInfo=(Name="Roughness A"),ParameterValue=Texture2D'"/Game/Megascans/Surfaces/MossyCreekStones/T_MossyCreekStones_R.T_MossyCreekStones_R"',ExpressionGUID=E4CE53AA42D027954EC18D85901C4D0B)
+   TextureParameterValues(3)=(ParameterInfo=(Name="Color B"),ParameterValue=Texture2D'"/Game/Megascans/Surfaces/Snow/T_snow_02_diff_1k.T_snow_02_diff_1k"',ExpressionGUID=FE5764CF4B285A688650B5B10E9B7672)
+   TextureParameterValues(4)=(ParameterInfo=(Name="Normal B"),ParameterValue=Texture2D'"/Game/Megascans/Surfaces/Snow/T_snow_02_rough_1k.T_snow_02_rough_1k"',ExpressionGUID=FE70953D4BA633E48D623A85F5E0A452)
+   TextureParameterValues(5)=(ParameterInfo=(Name="Roughness B"),ParameterValue=Texture2D'"/Game/Megascans/Surfaces/Snow/T_snow_02_rough_1k.T_snow_02_rough_1k"',ExpressionGUID=E4CE53AA42D027954EC18D85901C4D0B)
+   TextureParameterValues(6)=(ParameterInfo=(Name="Mask D"),ExpressionGUID=6FB08CF742F54DB32BD722BD63B1EF02)
+   TextureParameterValues(7)=(ParameterInfo=(Name="Roughness D"),ParameterValue=Texture2D'"/Game/Megascans/Surfaces/Snow/T_snow_02_rough_1k.T_snow_02_rough_1k"',ExpressionGUID=E4CE53AA42D027954EC18D85901C4D0B)
+   TextureParameterValues(8)=(ParameterInfo=(Name="Color E"),ParameterValue=Texture2D'"/Game/Megascans/Surfaces/Snow/T_snow_02_diff_1k.T_snow_02_diff_1k"',ExpressionGUID=FE5764CF4B285A688650B5B10E9B7672)
+   TextureParameterValues(9)=(ParameterInfo=(Name="Mask E"),ExpressionGUID=6FB08CF742F54DB32BD722BD63B1EF02)
+   TextureParameterValues(10)=(ParameterInfo=(Name="Normal E"),ParameterValue=Texture2D'"/Game/Megascans/Surfaces/Snow/T_snow_02_nor_1k.T_snow_02_nor_1k"',ExpressionGUID=FE70953D4BA633E48D623A85F5E0A452)
+   BasePropertyOverrides=(OpacityMaskClipValue=0.333300)
+   StaticParameters=(StaticSwitchParameters=((Value=True,ParameterInfo=(Name="Use Cell Bomb? A"),bOverride=True,ExpressionGUID=49B12AD84A60232927FC9EB9F971C183),(Value=True,ParameterInfo=(Name="UseTriplanarProjection?"),bOverride=True,ExpressionGUID=C652AB1E4CA488BFD40D7B89DA2CFD7B),(Value=True,ParameterInfo=(Name="Specular From Color B"),bOverride=True,ExpressionGUID=34C735C845CC414F18F6A8B1ABFFDFDF),(Value=True,ParameterInfo=(Name="Distance Fade? B"),bOverride=True,ExpressionGUID=59763BD84AD67F642008FC9E72993C07),(Value=True,ParameterInfo=(Name="Use Cell Bomb? B"),bOverride=True,ExpressionGUID=49B12AD84A60232927FC9EB9F971C183),(Value=True,ParameterInfo=(Name="Distance Fade? D"),bOverride=True,ExpressionGUID=59763BD84AD67F642008FC9E72993C07),(ParameterInfo=(Name="Distance Variation Normal Map"),bOverride=True,ExpressionGUID=68EE73D54EFE86C554292EAB9AC130B5),(Value=True,ParameterInfo=(Name="Material B Foliage?"),bOverride=True,ExpressionGUID=76056BD840B9B0F195BECC9C9286BE71),(ParameterInfo=(Name="Macro Variation"),bOverride=True,ExpressionGUID=C800743C40FEFFD90D18E7917BEDC827),(Value=True,ParameterInfo=(Name="Use Normal Map Blend?"),bOverride=True,ExpressionGUID=913F2E9C4ED661785CAE90B07A96E4C3)))
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=016B2CCA467578F9B5789DAB7DEB2469
+End Object
